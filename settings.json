@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LANDOFDEDS.aternos.me:58076",
+    "ip": "LANDOFDEDS.aternos.me",
     "port": 58076,
-    "version": "26.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
