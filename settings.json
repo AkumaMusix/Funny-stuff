@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BIG HADES",
+    "username": "BIG DAWG",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "chimpanzee.aternos.host",
+    "ip": "LANDOFDEDS.aternos.me:58076",
     "port": 58076,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
